@@ -37,8 +37,5 @@
 
 ---
 
-## 🔗 Connect with Me
-- 📧 Email: *(add your email)*  
-- 💼 LinkedIn: *(add your link if any)*  
 
 ---
