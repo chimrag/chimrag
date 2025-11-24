@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Chirag 👋</h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/ba71e460-f112-4833-8be1-c4a788176e70" height="100" style="border-radius: 50%;" />
+<img align="right" src="https://github.com/user-attachments/assets/ba71e460-f112-4833-8be1-c4a788176e70" widith="250" height="250" style="border-radius: 50%;" />
 
 ## 👨‍💻 About Me
 - 🚀 Aspiring developer exploring **C++**, **Python**, and **Web Development**
