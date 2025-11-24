@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Chirag 👋</h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/ba71e460-f112-4833-8be1-c4a788176e70" widith="250" height="250" style="border-radius: 50%;" />
+<img align="right" src="https://github.com/user-attachments/assets/ba71e460-f112-4833-8be1-c4a788176e70" width="250" height="250" style="border-radius: 50%;" />
 
 ## 👨‍💻 About Me
 - 🚀 Aspiring developer exploring **C++**, **Python**, and **Web Development**
@@ -34,8 +34,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chimrag&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chimrag&layout=compact&theme=radical)
-
----
-
-
----
